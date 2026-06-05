@@ -1,4 +1,4 @@
-# Ilyasse ABIDI | Software Engineer & AI Researcher
+# Ilyasse ABIDI | Future Software Engineer & AI Researcher
 
 
 I am a final-year Bachelor's student in Information Systems and Artificial Intelligence (SIIA) at the Multidisciplinary Faculty of Khouribga (FPK). I am a developer, competitive programmer, and the President of the Al-Khawarizmi IT & Robotics Club.
