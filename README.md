@@ -1,4 +1,4 @@
-# Ilyasse ABIDI | Future Software Engineer & AI Researcher
+# Ilyasse ABIDI | Information Systems Engineer & AI Researcher
 
 
 I am a final-year Bachelor's student in Information Systems and Artificial Intelligence (SIIA) at the Multidisciplinary Faculty of Khouribga (FPK). I am a developer, competitive programmer, and the President of the Al-Khawarizmi IT & Robotics Club.
@@ -10,7 +10,7 @@ I thrive on building scalable solutions and exploring the intersection of distri
 ### Technical Toolkit
 
 * **Languages:** Python, C++, PHP, JavaScript (ES6+)
-* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js)
+* **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), PHP, Bootstrap
 * **AI & Data Science:** Deep Learning (TensorFlow, PyTorch), Computer Vision (OpenCV)
 * **Big Data & Cloud:** Apache Hadoop, Apache Spark, Apache Kafka
 * **DevOps & Infrastructure:** Docker, Git, CI/CD pipeline principles
