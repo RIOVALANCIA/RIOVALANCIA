@@ -21,7 +21,7 @@ I thrive on building scalable solutions and exploring the intersection of distri
 
 ### Achievements
 
-* **Winner**, VibeFlow 300 Hackathon (2026).
+* **Winner**, Hackathon competition in Vibe Coding at FPK (2026).
 * **Finalist**, Moroccan National Programming Contest (2022, 2023).
 
 ---
